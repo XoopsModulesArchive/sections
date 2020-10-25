@@ -1,0 +1,284 @@
+/*Samuel's Koivi Editor V 0.default92 5-jul-2004 16:17
+ Xoops Project
+*/
+
+.defaultwIframe{
+	background-color: white;
+}
+
+.defaulttoolBar{
+	border:none;
+	position: static;
+	padding:3px;
+	background-color: #DFDFDF;
+}
+
+.defaultfloatingToolBar{
+	position:absolute;
+	padding:3px;
+	border-left: 1px solid black;
+	border-right: 2px solid black;
+	border-top: 1px solid black;
+	border-bottom: 2px solid black;
+	background-color: #DFDFDF;
+}
+
+.defaulttoolBarContainer{
+	cursor: pointer;
+	background-color: #DFDFDF;
+}
+
+.defaultshowHideCell{
+	border: 1px;
+	border-color: #DFDFDF;
+	border-style: outset;
+	background-image: url(hideback.gif);
+	vertical-align: top;
+	line-height:0;
+	padding:2px;
+}
+
+.defaultselectInput {
+	width: 70px; 
+	font-size: 9px; 
+	border:1px solid #7F9DB9;	
+}
+
+.defaulttablePropsD{
+	position:absolute; 
+	border-top: #666666 1px solid;
+	border-left: #666666 1px solid; 
+	border-right: #666666 2px solid; 
+	border-bottom: #666666 2px solid; 
+	width:20px; 
+	vertical-align:top;
+	line-height:0px;
+	background-color: #DFDFDF;
+}
+
+.defaultcellAlignD{
+	position:absolute; 
+	border-top: #666666 1px solid;
+	border-left: #666666 1px solid; 
+	border-right: #666666 2px solid; 
+	border-bottom: #666666 2px solid; 
+	WIDTH: 76px; 
+	HEIGHT: 72px; 
+	background-color: #FFFFFF;
+}
+
+.defaultcellBordersD{
+	position:absolute; 
+	border-top: #666666 1px solid;
+	border-left: #666666 1px solid; 
+	border-right: #666666 2px solid; 
+	border-bottom: #666666 2px solid; 
+	WIDTH: 73px; 
+	HEIGHT: 51px; 
+	background-color: #FFFFFF;
+}
+
+.defaultquickTableD{
+	border-top: #666666 1px solid;
+	border-left: #666666 1px solid; 
+	border-right: #666666 2px solid; 
+	border-bottom: #666666 2px solid; 
+	background-color: #FFFFFF;
+	line-height:0px;
+	position:absolute; 
+}
+
+.defaultinsertSymbolD{
+	background-color: #FFFFFF;
+	border-top: #666666 1px solid;
+	border-left: #666666 1px solid; 
+	border-right: #666666 2px solid; 
+	border-bottom: #666666 2px solid; 
+	position:absolute; 
+}
+
+.defaultClearFormatsD{
+	position:absolute; 
+	border-top: #666666 1px solid;
+	border-left: #666666 1px solid; 
+	border-right: #666666 2px solid; 
+	border-bottom: #666666 2px solid;  
+	WIDTH: 180px; 
+	HEIGHT: 66px; 
+	background-color: #FFFFFF;
+	line-height:0px;
+}
+
+.defaulttdPicker{
+	BORDER: #666666 1px solid;
+	width:5px;
+	height:5px;
+}
+
+.defaultDivOption{
+padding:5px;
+font-size: 80%;
+}
+
+
+.defaultbottomToolbar{
+	background-color: #dfdfdf;
+	text-align: right;
+	display:block;
+}
+.defaultcolorpicker{
+	width:177px;
+	height:26px;
+	border-left: #000000 1px solid; 
+	border-right: #000000 1px solid; 
+	border-bottom: none;  
+	padding-left:2px;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+
+.defaultcolorpickerHEX{
+	width: 54px; 
+	height: 14px; 
+	font-size: 9px;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	border:none; 
+	background-color:transparent;
+}
+
+.defaultColorPickerD{
+	position:absolute; 
+	height: 87px;
+	height:149px; 
+	border-top: #666666 1px solid;
+	border-right: #666666 1px solid; 
+	border-bottom: #666666 1px solid; 
+	background-color:#F4F4F4;  
+	line-height:0px;
+}
+
+.defaultcellPropsBody{
+	background-color: #dee3e7;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.defaultInput {
+	width: 50px; 
+	height: 13px; 
+	font-size: 9px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border:1px solid #7F9DB9;
+	vertical-align:top;
+}
+
+.defaultInput2 {
+	width: 60px; 
+	height: 15px; 
+	font-size: 9px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border:1px solid #7F9DB9;
+}
+
+.defaultInput3 {
+	width: 40px; 
+	height: 15px; 
+	font-size: 9px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border:1px solid #7F9DB9;
+	vertical-align:top;
+}
+
+.defaultInput4 {
+	width: 510px; 
+	height: 15px; 
+	font-size: 9px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border:1px solid #7F9DB9;
+	vertical-align:top;
+}
+
+.defaultcellPreviewFieldset {
+	font-size: 12px;
+	width:340px; 
+	height:132px;
+	overflow: hidden;
+}
+
+.defaultcellOFieldset {
+	font-size: 12px;
+	width:190px; 
+	height:132px;
+}
+
+.defaultcellPreviewDiv {
+	font-size: 12px;
+	width:330px; 
+	height:110px;
+}
+
+.defaultBorderFieldset{
+	font-size: 12px;
+	width:340px; 
+	height:132px;
+}
+
+.defaultimagePreview{
+	height: 160px;
+	overflow: hidden;
+	text-align: justify;
+}
+
+.defaultimagePropsBody{
+	background-color: #DEE3E7;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+.defaultimagePreviewFieldset {
+	font-size: 12px;
+	height: 168px;
+	width: 400px;
+}
+
+.defaultimageMarginsFieldset{
+	font-size: 12px;
+	height: 132px;
+	width: 202px;
+}
+
+.defaultimageOFieldset {
+	font-size: 12px;
+	height: 168px;
+	width: 160px;
+}
+
+.defaultimageSrcFieldset {
+	font-size: 12px;
+	width:570px; 
+	height:62px;
+	margin-left: 5px;
+}
+
+.defaulttableOFieldset {
+	font-size: 12px;
+	height: 234px;
+	width: 200px;
+}
+
+.defaulttablePreviewFieldset {
+	font-size: 12px;
+	height: 234px;
+	width: 220px;
+}
+
+.defaulttablePreviewDiv {
+	font-size: 12px;
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}

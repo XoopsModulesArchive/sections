@@ -1,0 +1,22 @@
+TODO V 0.95 Samuels
+The Xoops Project
+
+TODO
+-Finish createlink dialog.
+-Write Docs.
+
+
+MADE:
+-Compress JS files.(ok)
+-Finish imageproperties dialog.(ok)
+-Solve xp styles problems under iexplore.(ok)
+-Add Show Hide Toolbar palette.(ok)
+-Solve cell borders div on floating toolbar.(ok)
+-Hide Palettes on click out.(ok)
+-Finish cell props dialog(ok)
+-Show Table Borders.(ok)
+-Add table height.(ok)
+-Solve colorpalette problems.(ok)
+-Make dialogs XHTML compilant.(ok)
+-Insert anchor.(ok)
+-Solve problems with hilite under mozilla.(ok)
